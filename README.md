@@ -1,6 +1,6 @@
 #  Rock Mountain
 
-![](https://raw.githubusercontent.com/MirkoRinke/Developer-Akademie-rock-mountain/main/preview.jpg)
+![](https://raw.githubusercontent.com/ChristianNoack/Developer-Akademie-rock-mountain/main/preview.jpg)
 
 
 ### 📋 Overview
@@ -18,7 +18,7 @@ Welcome to my third project as part of the Developer Academy! In this project, I
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MirkoRinke/Developer-Akademie-rock-mountain.git
+   git clone https://github.com/ChristianNoack/Developer-Akademie-rock-mountain.git
    ```
 
 2. Navigate to the project directory:
@@ -28,5 +28,5 @@ Welcome to my third project as part of the Developer Academy! In this project, I
 
 ## ✍️ Author
 
- - [Webiste](https://mirkorinke.dev)
- - [Github](https://github.com/MirkoRinke)
+ - [Webiste](https://christian-noack.com)
+ - [Github](https://github.com/ChrisNo86)
