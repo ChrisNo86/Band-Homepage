@@ -1,30 +1,19 @@
 #  Rock Mountain
 
-![](https://raw.githubusercontent.com/ChristianNoack/Developer-Akademie-rock-mountain/main/preview.jpg)
+## Band Homepage – Responsive Website
 
+A responsive multi-section band website built with HTML, CSS and JavaScript.
 
-### 📋 Overview
+This project was created as part of the Developer Akademie training and includes:
 
-Welcome to my third project as part of the Developer Academy! In this project, I created a website for Rock Mountain, where you can experience powerful rock music and captivating live performances. Dive into our music and feel the rhythm of rock!
+- Structured semantic HTML
+- Responsive layout with Flexbox
+- Clean CSS architecture
+- Interactive navigation
+- Mobile optimization
 
+The goal was to practice structured frontend development and UI consistency.
 
-## 🛠️ Built with
-
-- HTML
-- CSS / SCSS
-- JS
-
-## ⚙️ How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ChristianNoack/Developer-Akademie-rock-mountain.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd Developer-Akademie-rock-mountain
-   ```
 
 ## ✍️ Author
 
