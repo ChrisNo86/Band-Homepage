@@ -1,27 +1,22 @@
----
-
-# 🎸 2️⃣ Band Homepage – Professional README
-
-```markdown
-# 🎸 Band Homepage
+--# Band Homepage
 
 ![Preview](./assets/preview.png)
 
 Responsive multi-section band website built with HTML, CSS and JavaScript.  
-Created as part of the **Developer Akademie** training program.
+Created as part of the Developer Akademie training program.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Responsive](https://img.shields.io/badge/Responsive-Design-green)
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Responsive Design
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project demonstrates structured frontend development using:
 
@@ -33,7 +28,7 @@ This project demonstrates structured frontend development using:
 
 ---
 
-## 🎯 Features
+## Features
 
 - Multi-section layout
 - Hero section
@@ -43,14 +38,7 @@ This project demonstrates structured frontend development using:
 
 ---
 
-## 🖥 Preview
-
-> Add a screenshot and name it `preview.png`  
-> Place it inside the `/assets` directory.
-
----
-
-## ⚙ Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/band-homepage.git
