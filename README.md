@@ -1,7 +1,5 @@
 --# Band Homepage
 
-![Preview](./assets/preview.png)
-
 Responsive multi-section band website built with HTML, CSS and JavaScript.  
 Created as part of the Developer Akademie training program.
 
@@ -41,7 +39,7 @@ This project demonstrates structured frontend development using:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/band-homepage.git
+git clone https://github.com/ChrisNo86/band-homepage.git
 cd band-homepage
 open index.html
 
