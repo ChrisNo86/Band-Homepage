@@ -60,7 +60,7 @@ into dynamic content rendering or backend integration.
 
 ## 🖥 Preview
 
-> Add a screenshot of your homepage and name it `preview.png`
+#coming
 
 Example:
 
