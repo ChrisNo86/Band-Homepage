@@ -60,9 +60,6 @@ into dynamic content rendering or backend integration.
 
 ## 🖥 Preview
 
-#coming
+![Project Preview](./preview.jpg)
 
-Example:
-
-```markdown
-![Project Preview](./preview.png)
+---
